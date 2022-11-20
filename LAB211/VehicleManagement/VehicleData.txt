@@ -1,0 +1,7 @@
+p7:DUCATI:Aqua:15000000:Moto:300:yes
+p6:BMW:Dark:20000000:Car:Travel:1999
+p1:AUDI:Choco:60000000:Car:sport:2020
+p8:CHEV:Black:14000000:Moto:299:yes
+p2:VIFAST:Red:70000000:Car:sport:2002
+
+
